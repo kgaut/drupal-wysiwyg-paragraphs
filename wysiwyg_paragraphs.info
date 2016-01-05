@@ -1,0 +1,6 @@
+name = WYSIWYG Paragraphs
+description = Aim to replace classic wysiwyg by advanced field associations
+dependencies[] = paragraphs
+package = User interface
+core = 7.x
+configure   = admin/config/content/ckeditor
